@@ -10,6 +10,7 @@ group :development, :test do
   gem 'cucumber'
 	gem 'sqlite3'
   gem 'ruby-debug19', :require => 'ruby-debug'
+  gem 'sqlite3'
   gem 'database_cleaner'
   gem 'capybara'
   gem 'launchy'
